@@ -1,0 +1,166 @@
+﻿Imagine you work at a School district administration. 
+They are working on School Bus Times Algorithms are used to help determine the most efficient school bus routes based on a school district’s objectives. They would want to implement efficient and cost-effective bus routes that align with their district's objectives and ensure student safety. 
+
+
+The School district administration wants to self-assess the trustworthiness of an AI system under development. You have heard of a tool being developed for just this purpose, the Assessment List for Trustworthy Artificial Intelligence (ALTAI). The tool is based on the European Union's High-Level Expert Group on AI (AI HLEG) in the Ethics Guidelines for Trustworthy Artificial Intelligence (AI). HLEG work is what is driving the regulations and policy work at EU level now. Your supervisor has asked you to explore the tool in the context of School Bus Times Algorithms project and construct a report evaluating its utility for this project.
+
+This website contains the Assessment List for Trustworthy AI (ALTAI). ALTAI was developed by the High-Level Expert Group on Artificial Intelligence set up by the European Commission to help assess whether the AI system that is being developed, deployed, procured or used, complies with the seven requirements of Trustworthy AI, as specified in our Ethics Guidelines for Trustworthy AI.
+
+
+1. Human Agency and Oversight.
+2. Technical Robustness and Safety.
+3. Privacy and Data Governance.
+4. Transparency.
+5. Diversity, Non-discrimination and Fairness.
+6. Societal and Environmental Well-being.
+7. Accountability.
+8. Implementation of feedback from the piloting process
+The feedback showed four main areas for improvement: feasibility, content, structure and the relation to existing rules and best practices. The feedback has been taken into account in preparing ALTAI, which resulted in:
+
+
+* A shorter, more coherent list of questions to reduce and optimize efforts of going through all questions.
+* Intuitive and understandable questions.
+* Consistency in wording.
+* Consistency in phrasing and hierarchy of questions, striking a balance between awareness, assessment, insight and guidance.
+* Logic jumps between questions.
+* Clear distinction between legal obligations and recommendations.
+* Limited qualified adjectives that are open to interpretation.
+* Pro-active language.
+* Avoidance of overlaps and duplication of questions.
+________________
+
+
+The body of ALTAI
+
+Human Autonomy
+This subsection deals with the effect AI systems can have on human behaviour in the broadest sense. It deals with the effect of AI systems that are aimed at guiding, influencing or supporting humans in decision making processes, for example, algorithmic decision support systems, risk analysis/prediction systems (recommender systems, predictive policing, financial risk analysis, etc.). It also deals with the effect on human perception and expectation when confronted with AI systems that 'act' like humans. Finally, it deals with the effect of AI systems on human affection, trust and (in)dependence.
+1. Is the AI system designed to interact, guide or take decisions by human end-users that affect humans ('subjects') or society?
+2. Could the AI system generate confusion for some or all end-users or subjects on whether a decision, content, advice or outcome is the result of an algorithmic decision?
+   1. Are end-users or subjects made adequately aware that a decision, content, advice or outcome is the result of an algorithmic decision?
+3. Could the AI system generate confusion for some or all end-users or subjects on whether they are interacting with a human or AI system
+   1. Are the end-users or subjects informed that they are interacting with an AI system?  *
+4. Could the AI system affect human autonomy by generating over-reliance by end-users? *
+   1. Did you put in place procedures to avoid that end-users over-rely on the AI system?  *
+5. Could the AI system affect human autonomy by interfering with the (end-user’s decision-making process in any other (unintended) way?
+6. Does the AI system create one of the following risks?
+
+
+
+
+Technical Robustness and Safety
+A crucial requirement for achieving Trustworthy AI systems is their dependability (the ability to deliver services that can justifiably be trusted) and resilience (robustness when facing changes). Technical robustness requires that AI systems are developed with a preventative approach to risks and that they behave reliably and as intended while minimising unintentional and unexpected harm as well as preventing it where possible. This should also apply in the event of potential changes in their operating environment or the presence of other agents (human or artificial) that may interact with the AI system in an adversarial manner. The questions in this section address four main issues: 1) security; 2) safety; 3) accuracy; and 4) reliability, fall-back plans and reproducibility.
+1. Is the AI system certified for cybersecurity (e.g., the certification scheme created by the Cybersecurity Act in Europe) or is it compliant with specific security standards?  *
+
+
+General Safety
+2. Could the AI system have adversarial, critical or damaging effects (e.g., to human or societal safety) in case of risks or threats such as design or technical faults, defects, outages, attacks, misuse, inappropriate or malicious use?  *
+
+
+Accuracy
+3. Could a low level of accuracy of the AI system have critical, adversarial or damaging consequences? *
+
+
+Reliability, fall-back plans and reproducibility
+4. Could the AI system cause critical, adversarial or damaging consequences (e.g., pertaining to human safety) in case of low reliability and/or reproduciblity?  *
+5. Is your AI system using online continual learning? *
+
+
+Privacy and Data Governance
+Closely linked to the principle of prevention of harm is privacy, a fundamental right particularly affected by AI systems. Prevention of harm to privacy also necessitates adequate data governance that covers the quality and integrity of the data used, its relevance in light of the domain in which the AI systems will be deployed, its access protocols and the capability to process data in a manner that protects privacy.
+1. Did you consider the impact of the AI system on the right to privacy, the right to physical, mental and/or moral integrity and the right to data protection?
+2. Depending on the use case, did you establish mechanisms that allow flagging issues related to privacy or data protection concerning the AI system? *
+3. Is your AI system being trained, or was it developed, by using or processing personal data (including special categories of personal data)?  *
+4. Did you put in place any of the following measures to thoroughly implement the General Data Protection Regulation (GDPR), or non-European equivalent? *
+5. Did you implement the right to withdraw consent, the right to object and the right to be forgotten in the AI system?  *
+6. Did you consider the privacy and data protection implications of data collected, generated or processed over the course of the AI system's lifecycle? *
+7. Did you consider the privacy and data protection implications of the AI system's non-personal training-data or other processed non-personal data? *
+8. Did you align the AI system with relevant standards (e.g. ISO, IEEE) or widely adopted protocols for (daily) data management and governance? *
+
+
+Transparency
+A crucial component of achieving Trustworthy AI is transparency which encompasses three elements: 1) traceability, 2) explainability and 3) open communication about the limitations of the AI system. Technical robustness requires that AI systems be developed with a preventative approach to risks and in a manner such that they reliably behave as intended while minimising unintentional and unexpected harm, and preventing unacceptable harm. This should also apply to potential changes in their operating environment or the presence of other agents (human and artificial) that may interact with the system in an adversarial manner. In addition, the physical and mental integrity of humans should be ensured.
+1. Traceability
+This subsection helps to self-assess whether the processes of the development of the AI system, i.e. the data and processes that yield the AI systemís decisions, is properly documented to allow for traceability, increase transparency and, ultimately, build trust in AI in society.
+   1. Did you put in place measures to continuously assess the quality of the input data to the AI system? *
+   2. Explainability
+This subsection helps to self-assess the explainability of the AI system. The questions refer to the ability to explain both the technical processes of the AI system and the reasoning behind the decisions or predictions that the AI system makes. Explainability is crucial for building and maintaining usersí trust in AI systems. AI driven decisions ñ to the extent possible ñ must be explained and understood to those directly and indirectly affected, in order to allow for contesting of such decisions. An explanation as to why a model has generated a particular output or decision (and what combination of input factors contributed to that) is not always possible. These cases are referred to as ëblack boxes' and require special attention. In those circumstances, other explainability measures (e.g. traceability, auditability and transparent communication on the AI system capabilities) may be required, provided that the AI system as a whole respects fundamental rights. The degree to which explainability is needed depends on the context and the severity of the consequences of erroneous or otherwise inaccurate output to human lives.
+      1. Did you explain the decision of the AI system to the users? *
+      2. Do you continuously survey the users to ask them whether they understand the decision(s) of the AI system?
+      3. Communication
+This subsection helps to self-assess whether the AI systemís capabilities and limitations have been communicated to the users in a manner appropriate to the use case at hand. This could encompass communication of the AI system's level of accuracy as well as its limitations.
+      1. In cases of interactive AI systems (e.g., chatbots, robo-lawyers), do you communicate to users that they are interacting with an AI system instead of a human? *
+
+
+Diversity, Non-discrimination and Fairness.
+In order to achieve Trustworthy AI, we must enable inclusion and diversity throughout the entire AI system’s life cycle. AI systems (both for training and operation) may suffer from the inclusion of inadvertent historic bias, incompleteness, and bad governance models. The continuation of such biases could lead to unintended (in)direct prejudice and discrimination against certain groups or people, potentially exacerbating prejudice and marginalisation. Harm can also result from the intentional exploitation of (consumer) biases or by engaging in unfair competition, such as the homogenisation of prices by means of collusion or a non- transparent market. Identifiable and discriminatory bias should be removed in the collection phase where possible. AI systems should be user-centric and designed in a way that allows all people to use AI products or services, regardless of their age, gender, abilities or characteristics. Accessibility to this technology for persons with disabilities, which are present in all societal groups, is of particular importance.
+      1. Avoidance of unfair bias
+Did you establish a strategy or a set of procedures to avoid creating or reinforcing unfair bias in the AI system, both regarding the use of input data as well as for the algorithm design?
+      1. Did you consider diversity and representativeness of end-users and/or subjects in the data? *
+      2. Did you test for specific target groups or problematic use case?  *
+      3.  Yes  No  Not applicable
+      4. Did you research and use publicly available technical tools, that are state-of-the-art, to improve your understanding of the data, model and performance? *
+      5. Did you assess and put in place processes to test and monitor for potential biases during the entire lifecycle of the AI system (e.g. biases due to possible limitations stemming from the composition of the used data sets (lack of diversity, non-representativeness))? *
+      6. Where relevant, did you consider diversity and representativeness of end-users and or subjects in the data? *
+      7. Did you put in place educational and awareness initiatives to help AI designers and AI developers be more aware of the possible bias they can inject in designing and developing the AI system? *
+      8. Depending on the use case, did you ensure a mechanism that allows for the flagging of issues related to bias, discrimination or poor performance of the AI system? *
+      9. Did you establish clear steps and ways of communicating on how and to whom such issues can be raised? *
+      10. Did you identify the subjects that could potentially be (in)directly affected by the AI system, in addition to the end-users?  *
+      11. Is your definition of fairness commonly used and implemented in any phase of the process of setting up the AI system ? *
+      2. Accessibility and universal design
+Particularly in business-to-consumer domains, AI systems should be user-centric and designed in a way that allows all people to use AI products or services, regardless of their age, gender, abilities or characteristics. Accessibility to this technology for persons with disabilities, which are present in all societal groups, is of particular importance. AI systems should not have a one-size-fits-all approach and should consider Universal Design principles addressing the widest possible range of users, following relevant accessibility standards. This will enable equitable access and active participation of all people in existing and emerging computer-mediated human activities and with regard to assistive technologies.
+      1. Did you ensure that the AI system corresponds to the variety of preferences and abilities in society?
+      3. Stakeholder participation
+In order to develop Trustworthy AI, it is advisable to consult stakeholders who may directly or indirectly be affected by the AI system throughout its life cycle. It is beneficial to solicit regular feedback even after deployment and set up longer term mechanisms for stakeholder participation, for example by ensuring workers information, consultation and participation throughout the whole process of implementing AI systems at organisations.
+      1. Did you consider a mechanism to include the participation of the widest range of possible stakeholders in the AI system's design and development?
+
+
+Environmental Wellbeing
+This subsection helps to self-assess the (potential) positive and negative impacts of the AI system on the environment. AI systems, even if they promise to help tackle some of the most pressing societal concerns, e.g. climate change, must work in the most environmentally friendly way possible. The AI system’s development, deployment and use process, as well as its entire supply chain, should be assessed in this regard (e.g. via a critical examination of the resource usage and energy consumption during training, opting for less net negative choices). Measures to secure the environmental friendliness of an AI system’s entire supply chain should be encouraged.
+mpact on work and skills
+AI systems may fundamentally alter the work sphere. They should support humans in the working environment, and aim for the creation of meaningful work. This subsection helps self-assess the impact of the AI system and its use in a working environment on workers, the relationship between workers and employers, and on skills.
+Does the AI system impact human work and work arrangements?  *
+Could the AI system create the risk of de-skilling of the workforce? *
+
+
+Accountability.
+Auditability
+This subsection helps to self-assess the existing or necessary level that would be required for an evaluation of the AI system by internal and external auditors. The possibility to conduct evaluations as well as to access records on said evaluations can contribute to Trustworthy AI. In applications affecting fundamental rights, including safety-critical applications, AI systems should be able to be independently audited. This does not necessarily imply that information about business models and intellectual property related to the AI system must always be openly available.
+Risk Management
+Both the ability to report on actions or decisions that contribute to the AI system's outcome, and to respond to the consequences of such an outcome, must be ensured. Identifying, assessing, documenting and minimising the potential negative impacts of AI systems is especially crucial for those (in)directly affected. Due protection must be available for whistle-blowers, NGOs, trade unions or other entities when reporting legitimate concerns about an AI system.
+When implementing the above requirements, tensions may arise between them, which may lead to inevitable trade- offs.Such trade - offs should be addressed in a rational and methodological manner within the state of the art.This entails that relevant interests and values implicated by the AI system should be identified and that, if conflict arises, trade- offs should be explicitly acknowledged and evaluated in terms of their risk to safety and ethical principles, including fundamental rights.Any decision about which trade - off to make should be well reasoned and properly documented.When adverse impact occurs, accessible mechanisms should be foreseen that ensure adequate redress.
+________________
+The requirements not completed score 0.
+  
+Recommendations
+Human agency and oversight
+Put in place procedures to avoid that end users over-rely on the AI system.
+Technical robustness and safety
+Identify the possible threats to the AI system (design faults, technical faults, environmental threats) and the possible resulting consequences.
+Assess the dependency of critical system’s decisions on its stable and reliable behaviour.
+Assess the dependency of critical system’s decisions on its stable and reliable behaviour.
+Plan fault tolerance via, e.g., a duplicated system or another parallel system (AI-based or “conventional”).
+Develop a mechanism to evaluate when the AI system has been changed enough to merit a new review of its technical robustness and safety.Develop a mechanism to evaluate when the AI system has been changed enough to merit a new review of its technical robustness and safety.
+Put in place a series of steps to monitor and document the AI system’s accuracy.
+Consider potential negative consequences from the AI system learning novel or unusual methods to score well on its objective function.
+Privacy and Data Governance
+Consider the privacy and data protection implications of the AI system's non-personal training-data or other processed non-personal data.
+Whenever possible and relevant, align the AI-system with relevant standards (e.g. ISO, IEEE) or widely adopted protocols for (daily) data management and governance.
+Transparency
+No recommendation for this requirement.
+Diversity, non-discrimination and fairness
+You should ensure that the AI system corresponds to the variety of preferences and abilities in society.
+You should assess whether the AI system's user interface is usable by those with special needs or disabilities or those at risk of exclusion.
+You should take the impact of the AI system on the potential end-users and/or subjects into account.
+You should assess whether the team involved in building the AI system engaged with the possible target end-users and/or subjects.
+You should assess whether there could be groups who might be disproportionately affected by the outcomes of the system.
+You should assess the risk of the possible unfairness of the system onto the end-user's or subject's communities.
+Societal and environmental well-being
+Consider the potential positive and negative impacts of your AI system on the environment and establish mechanisms to evaluate this impact.
+Define measures to reduce the environmental impact of your AI system’s lifecycle and participate in competitions for the development of AI solutions that tackle this problem.
+Provide training opportunities and materials for re- and up-skilling measures.
+Accountability
+Designing a system in a way that can be audited later, results in a more modular and robust system architecture. Thus, it is highly recommended to ensure modularity, traceability of the control and data flow and suitable logging mechanisms.
+AI systems should be developed with a preventative approach to risks and in a manner such that they reliably behave as intended while minimising unintentional and unexpected harm, and preventing unacceptable harm. Consequently, developers and deployers should receive appropriate training about the legal framework that applies for the deployed systems.
+A useful non-technical method to ensure the implementation of trustworthy AI is to include various stakeholders, e.g. assembled in an “ethical review board” to monitor and assist the development process.
+Involving third parties to report on vulnerabilities and risks does help to identify and mitigate potential pitfalls
+A risk management process should always include new findings since initial assumptions about the likelihood of occurrence for a specific risk might be faulty and thus, the quantitative risk analysis was not correct and should be revised with the new findings.
