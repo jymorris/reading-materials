@@ -1,35 +1,3 @@
-﻿Imagine you work at a School district administration. 
-They are working on School Bus Times Algorithms are used to help determine the most efficient school bus routes based on a school district’s objectives. They would want to implement efficient and cost-effective bus routes that align with their district's objectives and ensure student safety. 
-
-
-The School district administration wants to self-assess the trustworthiness of an AI system under development. You have heard of a tool being developed for just this purpose, the Assessment List for Trustworthy Artificial Intelligence (ALTAI). The tool is based on the European Union's High-Level Expert Group on AI (AI HLEG) in the Ethics Guidelines for Trustworthy Artificial Intelligence (AI). HLEG work is what is driving the regulations and policy work at EU level now. Your supervisor has asked you to explore the tool in the context of School Bus Times Algorithms project and construct a report evaluating its utility for this project.
-
-This website contains the Assessment List for Trustworthy AI (ALTAI). ALTAI was developed by the High-Level Expert Group on Artificial Intelligence set up by the European Commission to help assess whether the AI system that is being developed, deployed, procured or used, complies with the seven requirements of Trustworthy AI, as specified in our Ethics Guidelines for Trustworthy AI.
-
-
-1. Human Agency and Oversight.
-2. Technical Robustness and Safety.
-3. Privacy and Data Governance.
-4. Transparency.
-5. Diversity, Non-discrimination and Fairness.
-6. Societal and Environmental Well-being.
-7. Accountability.
-8. Implementation of feedback from the piloting process
-The feedback showed four main areas for improvement: feasibility, content, structure and the relation to existing rules and best practices. The feedback has been taken into account in preparing ALTAI, which resulted in:
-
-
-* A shorter, more coherent list of questions to reduce and optimize efforts of going through all questions.
-* Intuitive and understandable questions.
-* Consistency in wording.
-* Consistency in phrasing and hierarchy of questions, striking a balance between awareness, assessment, insight and guidance.
-* Logic jumps between questions.
-* Clear distinction between legal obligations and recommendations.
-* Limited qualified adjectives that are open to interpretation.
-* Pro-active language.
-* Avoidance of overlaps and duplication of questions.
-________________
-
-
 The body of ALTAI
 
 Human Autonomy
