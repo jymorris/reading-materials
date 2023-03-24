@@ -1,0 +1,795 @@
+hello and good afternoon everyone welcome to this session on ethics in practice i'm delighted and very excited
+0:12
+to open this final session of the just ai network's week-long series of events
+0:18
+on prototyping ai ethics futures thank you very much for joining us
+0:23
+i should start by saying that we have live captioning available during this event
+0:29
+you can access it via zoom's closed captions button but we also provide a stream text version of the caption and
+0:36
+the link to that is posted in the chat now this event is also being recorded and
+0:41
+the video will be available on the ada of this institute's website in the coming days or perhaps even today
+0:48
+also feel free to engage in the conversation on twitter using the hashtag ai epics futures
+0:55
+and final bit of housekeeping you'll find the chat and q a buttons at
+1:00
+the bottom of the zoom window and i would encourage you to put your questions to the panelists into
+1:06
+the q a box and we will come to them in the third part of the event but also feel free to share
+1:12
+links or resources in the chat as well now after all the housekeeping out of
+1:17
+the way my name is imra bart and i am a researcher with the just ai network
+1:23
+which is supported by the arts and humanities research council and the ada lovelace institute
+1:28
+and over the course of the last year i've been working with professor allison powell the network's director and dr
+1:35
+louise hickman our senior researcher on prototyping a humanities-led approach to
+1:41
+aeon and data ethics and the various strands of our activities were showcased and discussed
+1:47
+during the course of this week so if you haven't had a chance to attend any other events i would
+1:53
+recommend that you check out the middle of this institute's website because recordings are available and all of the
+1:58
+events have been absolutely amazing and stellar so this is the final one and this is
+2:04
+showcasing our thinking and our work around um ethics in practice it has been one of
+2:10
+the strengths that we have been pursuing both in terms of thinking about our own work conducting research in this space
+2:17
+and trying to support and create a network but also with regard to and space ethics and anyone who has been
+2:24
+following this space is very much aware of the degree of prominence and visibility that
+2:30
+ethics and the discussion of ethical issues around ai has attained over the last few years really we have seen the
+2:37
+explosion of proliferation of ethics guidelines and tools and frameworks developed by a variety of organizations
+2:44
+but spearheaded by industry actors we are also seeing enormous investments multi-million
+2:50
+dollar investments into centers devoted to ai ethics we have dedicated conferences journals and now even
+2:56
+educational and training programs that certify people as ethical technologists
+3:01
+but there are complex open questions related to how ai ethics is to be understood
+3:07
+in different contexts how is it understood in different contexts and by different actors and especially how some notion of ethics
+3:14
+is translated into practice how do we move from abstract principles to
+3:20
+operationalizable practices who should be concerning themselves with this translation what are the roles of
+3:26
+organizations like public and private funders academic institutions public and private
+3:33
+enterprise small companies and large companies at the same time we are seeing failures
+3:40
+and and shortcomings when it comes to ethics for example the ethics washing
+3:45
+scandal related to the eu's guidelines google's dismantling of its ethics board
+3:51
+um and the scandal is firing within the gabriel and this list could really go on and on and on for a long time so besides
+3:58
+the challenge of embedding ethics into processes of technology development there is another level or type of
+4:03
+questioning that has already surfaced multiple times over the course of this week and it really came out forcefully
+4:10
+during yesterday's session on racial justice and this question has to
+4:15
+do with the fact that for many scholars and activists the discussion about ai ethics itself is is fundamentally flawed
+4:22
+in many ways and in a sense serves as a distraction that can even be actively harmful for certain communities
+4:28
+this is a criticism that suggests that ai ethics is in a way limited with regard to the kinds of questions that it
+4:34
+can possibly ask and that it has failed in many ways to address deeper underlying issues of
+4:40
+power inequality and justice and so this is broadly the space of the scope that we would like to explore
+4:47
+together with an amazing group of speakers today we are first going to have a moderated
+4:53
+discussion that is going to be facilitated and chaired by andrew strait who is associate director of
+4:59
+partnerships at the developers institute uh and then we're going to open up the floor to have a q a for about 25 to 30
+5:05
+minutes and then at the end professor allison powell is going to round off and
+5:10
+close the week and make a very exciting announcement so if you can i would
+5:16
+i would ask that you stick around until the very end and with that i'm going to pass the word
+5:21
+to andrew thank you very much for joining and please enjoy the procession thank you so much and ray and such an
+5:27
+honor to be here with this esteemed guest today to talk about this really fantastic issue around ethics and practice
+5:33
+um um my name is andrew strait i'm the church director of research partnerships at the ada lovis institute for those of us who don't know those who don't know
+5:38
+us were a london-based research and deliberative body with a mission to ensure that data and ai work for people and society um before we dive into uh
+5:46
+our guests and giving sort of short brief intros and provocations to their work and their thoughts and ethics and practice i first want to introduce them
+5:53
+uh to all of you today and again very excited to have this excellent group with us to discuss these points uh first
+5:58
+i want to introduce libby kinsey who is the head of data science strategy and operations at ocado technology a division of the okada group which
+6:05
+designs most of avocados in-house technology around website and apps automated warehouses and robots machine
+6:10
+learning-based fraud detection customer service systems and many other applications by ai nml
+6:15
+prior to that she was lead technologist for ai at digital catapult and the co-founder of project juno liby
+6:21
+retrained machine learning in 2014 after 12 years of working in technology mostly in venture capital
+6:27
+we're also joined today by dr mona sloan a senior research scientist at the nyu center for responsible ai and adjunct
+6:33
+professor at nyu's tandon school of engineering she's also fellow with nyu's institute for public knowledge and her
+6:39
+work centers in a range of topics around ai and public education auditing assessment methods public sector
+6:44
+procurement of ai systems and the opera's operationalization of ethics specifically in german ai startups
+6:51
+dr william isaac is a senior research scientist on deepmind's ethics and society team and a research-affiliated
+6:56
+oxford university centers for governance nai his research focuses on fairness and governance of ai systems and prior to
+7:03
+deepmind he serves as an open society fellow and research advisor for the human rights data analysis group
+7:09
+lastly we have dr shannon valor the bilia gifford chair and ethics of data and artificial intelligence and the
+7:15
+director of the center for tech memorial futures in the edinburgh futures institute at the university of edinburgh
+7:21
+she's also appointed as professor in the department of philosophy at edinburgh university professor valerie's research explores
+7:27
+how emerging technologies reshape human moral intellectual character and maps the ethical challenges and opportunities
+7:34
+posed by new uses of data and artificial intelligence her work includes advising academia
+7:39
+government and industry on the ethical design and use of ai and she's a former visiting researcher and ai ethicist at
+7:45
+google i want to thank you all so much again for joining us today for this conversation i will now turn to each
+7:51
+speaker to make a brief five minute remarks a set of remarks on their perspective of what the most important and current issues challenges or open
+7:58
+questions arise with putting ai ethics into practice we'll first turn doctor shannon ballard
+8:05
+thanks anger and uh thanks for inviting me to uh to join you today for this conversation i'm i'm honored to be
+8:12
+uh on such an incredible panel and uh really excited to uh to dive in so uh
+8:19
+i'm gonna outline uh five or six uh open challenges uh for putting ethics into
+8:25
+practice that um that i don't think will be a surprise to anyone um but i'll try to express my uh my take on them and
+8:31
+then maybe uh we can return to these in in the conversation so i think uh one obvious uh challenges
+8:38
+is uh was it was already outlined in the introductory remarks uh by emra
+8:43
+which come comes down to um translation problems and and understandings of what we mean when we
+8:49
+use certain terms often this is about translating across normative ethical uh vocabularies and
+8:57
+technical vocabularies on the one hand so it's of course a known problem that
+9:03
+there is a gap between various computational definitions of fairness in the machine learning context
+9:09
+and political and moral concepts of fairness uh in in moral philosophy for example in
+9:15
+political philosophy um and and that's a very well-known challenge but it's certainly not the
+9:21
+only one concepts such as safety uh are often
+9:26
+understood by uh for example engineering teams in far narrower terms than they might be
+9:32
+understood by human computer interaction experts uh or philosophers uh concepts like
+9:39
+explainable or interpretable uh have similar gaps but in the opening discussion it is
+9:44
+clear that even the concept of ethics itself uh uh straddles these gaps uh and uh and it
+9:52
+isn't just about uh uh you know particular disciplinary uh perspectives
+9:57
+it's also about uh the evolution of what ethics is and how it's understood now
+10:02
+that ethics no longer is something that people encounter purely in a philosophical context uh that they
+10:07
+encounter it more commonly in uh these industry settings uh we have to grapple uh with these gaps uh and uh the idea
+10:15
+for example that ethics is a a d political notion or a deep
+10:21
+politicized notion one that doesn't ask questions about justice and the legitimate uses of power
+10:26
+well you can only get to that notion if you've already stripped the the core concept of ethics for parts uh because if you go back to
+10:33
+socrates yeah and plato and from other traditions we go back to sort of the classical confucian tradition uh ethics
+10:39
+is always discussed in the context of power and and justice and and what are the legitimate uses of power and and and
+10:46
+what are the grounds uh for that so uh so we need to recognize that the concept of ethics itself uh has already been the
+10:53
+victim of a certain amount of kind of uh stripping down of what's essential to it and we need to
+10:59
+recover those ideas um i'm going to now move to a second uh concern which is i think uh the
+11:07
+challenge of making ethical practice iterative and making it something that exists throughout the life cycles of
+11:13
+projects and products so we need to get in the habit of closing the information loop by ensuring that
+11:19
+ethical decisions are always monitored for their real world impact on downstream stakeholders and that the
+11:25
+information is fed back into the technology uh and and used to inform and improve future ethical processes
+11:32
+so i think ethical practices that conclude when a product or service is launched are bound to fail and right now
+11:38
+a lot of processes are set up that way right to review and approve something that then will not get looked at again
+11:44
+in a serious way um if you contrast that with something like health right we don't treat health as something that is
+11:52
+a problem to be solved and then we stop paying attention to it um and we can't treat ethics as a problem to be solved
+11:59
+it's much more like health it's an ongoing condition that has to be maintained and monitored
+12:04
+and so we need to make sure that our ethical processes and practices are aligned with that we also have to learn
+12:11
+to resolve ethical trade-offs and value conflicts in ways that don't reduce to motivated reasoning where we exploit
+12:18
+ambiguity or uncertainty or moral conflict in order to justify doing what is
+12:24
+easiest or what is beneficial to us um or exploiting ambiguity and value
+12:30
+tensions to justify uh moral cynicism saying well hey there's no obvious one
+12:35
+right answer here that's 100 sure to be the correct uh uh outcome so let's we
+12:42
+can just do whatever we like uh right so the idea is ethics is ambiguous it does involve uncertainty it
+12:48
+does involve value tensions and trade-offs uh that doesn't uh in any way give us license uh to uh uh to act in
+12:56
+ways that are unprincipled or unjustifiable so how can ethical tensions and conflicts be managed in a
+13:02
+way that's principled or justifiable by ethical reasons um we also need to think about ensuring
+13:09
+that ethical practices can accommodate principled resistance and critique without breaking
+13:15
+the fiasco that was google's treatment of their ethical ai team is instructive but it's hardly the only example of this
+13:21
+problem so how do we reward rather than punish people who bring critical perspectives how do we make sure that
+13:27
+their critique and challenges are heard and actually incorporated into practice rather than merely tolerating them and
+13:34
+allowing them to sort of be vented in a way that uh leaves them uh um without any practical force
+13:42
+um so how can we merge critique and challenge into uh into practice uh into
+13:49
+uh doing things together that actually have good effects the effect of critique should not purely be negative not should
+13:56
+not purely be destructive it should be uh in in order to enable us to go forward and do things in a better way
+14:03
+even if that does sometimes mean not doing the thing we thought we were going to do so so figuring out how we're going to
+14:09
+accommodate principled resistance and critique is essential
+14:15
+we also have to figure out how to measure success when ethics is often seen as a preventative force right the
+14:20
+idea that well if we do this well the the outcome is nothing bad happens but how do you measure nothing bad happening
+14:27
+um or how do you measure the positive outcomes that ethics ought to be able to bring
+14:34
+about particularly when you're operating in metric driven environments where metrics are
+14:39
+usually things you can count and counting ethical successes uh is is
+14:44
+maybe the wrong way uh uh to uh to understand what what are what our aims are
+14:50
+and then finally the last point is we need to move ethics from a search to find a morally permissible way to do
+14:57
+what we've already decided we want to do with technology to something that guides what we
+15:02
+conceive as we're doing with technology in the first place um where ethics is shaping the kinds of
+15:08
+futures that we're choosing to envision with technology and i don't think we've gotten there yet but i do think that
+15:14
+that's the important next step thanks absolutely brilliant points janet i really appreciate that i think some
+15:20
+really good points in the discussion that will come up um already around how do you operationalize some of these these these
+15:26
+points and at which stage in the sort of design process would you consider intervening but first i i'd like to turn
+15:31
+to libby kinsey to give a brief opening comments and uh handed to you libby
+15:37
+thank you andrew and thank you very much for inviting me to join this panel today
+15:42
+i come i suppose from the perspective of thinking about what does it mean to develop and deploy
+15:50
+responsibly in a commercial context so my work at the digital catapult on the
+15:55
+responsible ai adoption program was thinking about how what processes or
+16:01
+tooling are there what support services might we build to allow companies of all sizes to
+16:09
+develop and deploy responsibly um and i suppose um the first challenge that arises and it
+16:17
+speaks to one of imrae's opening points was around um are we limited in the
+16:23
+types of questions that we can ask when we talk about ai ethics
+16:28
+and it's very clear or at least has been my experience that often when we talk
+16:33
+about responsible ai it is self-contained or removed from
+16:40
+the sort of higher order of ethical business models or organizational values
+16:47
+and i think good organizations will create responsible ai but naturally that raises
+16:54
+questions about culture and values of ways of working and change management
+17:00
+which are really hard to do and rather interdisciplinary um the second question uh challenge um
+17:08
+is around translation and i suppose i've just got a slightly different um
+17:14
+perspective to shannon's here in that i'd just like to highlight how
+17:20
+immature um translational methodologies tooling are
+17:27
+first because a lot of tooling has been made available and maybe that's
+17:33
+not obvious that the kind of circumstances in which you might use it or where it might be
+17:38
+appropriate um are a little bit contested or unknown
+17:44
+and allied to that um is the huge press attention around um ai ethics
+17:54
+which has been hugely successful and important to making ethics part of the conversation
+18:01
+but does sometimes lead to a nervousness amongst participants to be open and
+18:06
+transparent about what they're trying and the experiments that they are doing to be responsible
+18:13
+and i think that that's a really huge challenge because um we need we need it to be okay to fail
+18:21
+in order to learn how to do things well um and finally
+18:28
+my final challenge i'm just want to highlight is is this question of the uh
+18:34
+again the perspective so i'd love it if we could remove the
+18:39
+conversation or at least make benefits as much a part of the
+18:45
+conversation as risks and one of the problems that i encountered in my last role was that
+18:52
+you can make the case for investment in responsible practices on a risk-based point of view
+18:58
+reputational or compliance point of view but finding evidence that there might actually be a competitive advantage or a
+19:05
+return on investment it's much harder at least in commercial contexts
+19:11
+that's a really important um area to look into more we we were
+19:16
+running the program at digital catapult digital catapult has been running that program now for a few years we're just
+19:22
+starting to get some case studies that we can talk about but it's necessarily a rather
+19:28
+long process thank you so much
+19:33
+really good points about that the importance of of needing to be okay to fail in order to learn how to do things well it's a very
+19:39
+uh crucial point kicks bird while some shannon's comments about about uh how how we could create that culture of i
+19:45
+think about benefits and and um more expansive consideration around ethics i'd like to turn to you now to give us
+19:52
+some brief introductory remarks thank you so much andrew and thank you to aydah lovelace for hosting this
+19:57
+wonderful conversation i'm very honored to be on this panel today and i want to start off my provocation really by
+20:04
+saying how pleased i am to see a focus on ethics in practice
+20:10
+not ethics and numbers ethics in theory or ethics and policy as a sociologist with roots and cultural studies material
+20:16
+culture economic sociology and science and technology studies and as a former ballet dancer i am really convinced that
+20:23
+all things in the world are things that we do not just things that are i think
+20:29
+everything's a practice and ethics certainly is no exception now we have seen the ethics hype emerge
+20:36
+and then be replaced by the backlash against uh ethics washing we've seen that in the
+20:42
+show silicon valley uh through the wonderful notion of tethics if you haven't seen that i recommend that
+20:48
+particular episode we are also really in the midst of a mounting and much needed a push for
+20:54
+attack regulation particularly in terms of personal data on both sides of the atlantic but author
+21:00
+and other in other places around the globe for example china has just released a new
+21:05
+draft for a data protection regulation so these conversations are happening everywhere i guess that backdrop um i
+21:13
+think it makes perfect sense to ask what can and must happen when we do ethics
+21:18
+and i wanna um offer three thoughts and please bear with me
+21:23
+as they turned out to be rather social sciencey yeah but i'm just gonna push that a little bit today
+21:31
+um first i think when we talk about practices we really should very much in
+21:36
+the spirit of what is called social practice theory developed by uh elizabeth shaw for
+21:42
+example among many others we should develop a habit of asking where a
+21:47
+practice comes from and how it is made up social practices whether they are
+21:53
+driving exercising cooking or designing a technology all are made up of meanings
+21:59
+materialities and competencies and all of these a have a history and b are
+22:04
+continually emerging very much in the spirit in which shannon just spoke about ethics being emergent
+22:11
+the reason why cars look the way they do today is because they are a continuation of the design of force carriages the
+22:18
+reason why some ai technologies used in the hiring funnel for example those that
+22:24
+analyze micro expressions and speech to predict personality skill and job fit
+22:29
+are deeply discriminatory for example against people with disabilities is because they are at their core based on
+22:37
+your genesis belief systems ethics in practice means to take practice
+22:43
+seriously and develop knowledge for these socio historical continuations to
+22:49
+make ethical decisions whether in policy and technology design in the classroom
+22:54
+or for yourself second i think to develop these kinds of literacies universities in particular
+23:02
+and i'm speaking as a scholar here somebody who is in that system universities must take a more active
+23:09
+role and shannon and libby both just spoke about the significance of translation computer science pedagogy i think we can
+23:16
+all agree must change but academics must come out from behind their decks desks
+23:22
+in the ivory tower and engaged in public discourse and community work and the building up of support structures for
+23:28
+democratic engagement in technology design and policy we need more and better incentives and rewards for
+23:35
+academics who themselves can be very precarious to contribute their knowledge and expertise and their access to
+23:41
+resources and networks to the quest of building technologies that are in the public interest for example by helping
+23:48
+local government agencies making better decisions about how to procure public use technology which i'm happy to talk
+23:55
+uh more about later i think that is just as important or should be as important
+24:01
+as writing the next award-winning essay and third uh i think it is key to take seriously
+24:08
+the practice of tech work in its broadest sense it is no coincidence coincidence that we
+24:14
+are seeing a push towards unionizing in the us
+24:19
+in the us parts of the global tech industry which is often part or partially
+24:24
+motivated by a desire to leverage collective labor power in order to make more ethical decisions about client
+24:31
+selection or the handling of misconduct harassment and discrimination in the organization
+24:37
+i'm currently running a research project on the opportunization of ethics and german ai startups and even though we're
+24:44
+very early in the data collection process we can already see a few trends there is a very strong indicator that
+24:50
+worker participation particularly with regards to client selection is a very
+24:55
+important ai ethics practice relatedly the practice of refusal is key
+25:01
+the refusal of working for the military-industrial complex for example or the refusal to keep working for a
+25:07
+company that had a track record of systematically discriminating against people of color exposed which brings us
+25:15
+really to the heart of techno feminism and for example sarah ahmed's work on
+25:20
+refusal resignation and complaint as well as the well-known concepts of intersectionality
+25:26
+and i'm gonna stop right here because i could have gone uh on with that um and
+25:31
+i'm happy to talk more about any of these and i'm very excited to be here thank you thank you so much mona loads to impact
+25:37
+there in the q a in the discussion that follows i really like that point you raised around the importance of bringing historical knowledge to these
+25:43
+considerations and discussions that's such a really essential point to consider when we talk about the interdisciplinary nature of the ethics
+25:49
+work that we're asking firms and companies to take on lastly i want to hand to william isaac from deepmind to give us his thoughts on
+25:55
+this provocation there's already been so many wonderful things said i'm gonna see if i can try
+26:01
+to uh raise a few meta points um i'm taking a step back i i noticed i
+26:07
+think there was a kind of in the preamble there was a kind of framing about kind of high level
+26:12
+ethics principles that have kind of emerged of late and kind of uh you know bottom-up efforts to try to provide some
+26:19
+um ways towards those goals whether they're in the form of model cards data sheets and other practices designed to
+26:26
+kind of like lean towards the goal of greater accountability and transparency and i think one of the things that you
+26:32
+know i guess to the question of where we're struggling is i think there's a kind of framing what i call
+26:38
+the kind of missing middle um both these kind of tools that have emerged and these principles that have kind of been
+26:44
+ascribed as the kind of goals we aspire to um there's something in between that that i think has been overlooked and i
+26:50
+tend to try to define them as kind of socio-technical challenges and i want to kind of highlight surface
+26:56
+three of them and to provide maybe a sense of kind of like a meta clustering of like some of the things i think the
+27:01
+other panelists have said um i think the first one is that um there's definitely a shift towards thinking about a
+27:08
+multi-system world um i think i think someone mentioned the case of hiring we see this in in for many marginalized
+27:15
+communities their day-to-day experiences on navigating to social welfare systems etc that you're not usually dealing with
+27:21
+questions of a single algorithm but usually multiple systems at play determining the kind of fate and
+27:26
+condition of many communities and so when we talk about aspiring to fairness or even more ambitiously justice you're
+27:32
+not usually going to be trying to define us in the terms of constraining one system but usually a cluster of systems
+27:38
+as well as human decision making so we have to think we have to shift our thinking about trying to ascribe uh
+27:44
+ethical principles to a single uh kind of like technological artifact but think much more broadly about the system and
+27:50
+the processes that generate the ultimate outcome um and that obviously raises questions related to power inequality
+27:57
+and and so and and so i think that kind of shifts your thinking about what the goals are and how you achieve them i
+28:03
+think the second point and it's closely a related point is thinking of the world as being multi-stakeholder um very much
+28:10
+if you look at a lot of the kind of ai ethics doctrine they're usually kind of uh created and and devised by um
+28:18
+usually kind of powerful actors um corporations governments right and very rarely do civil society and other actors
+28:25
+have an equal footing in kind of setting these guidelines um but i think the world is going to have to move towards a
+28:30
+world where you have a much more multi-group approach to developing and designing what's what attributes you
+28:37
+want a technical artifact to possess and this is obviously going to make large actors uncomfortable because the idea of
+28:43
+having to open up your decision processes to other stakeholders is often a very delicate and difficult process
+28:49
+but it's an important one and it's important because in many instances in order to build trust and confidence in
+28:55
+the technologies of the future you have to incorporate multiple stakeholders in designing and building that future
+29:01
+and and while i think that many of these tools are very nascent in how you do it i think the motivation and the demand is
+29:07
+there and i think it also relates to this position of critique is actually fundamental to have critique as part of
+29:13
+a multi-stakeholder process for because for many instances the communities that are going to be newly involved in this
+29:19
+process have never had a seat at the table before and so as a result there's going to have to be space for disagreement and also
+29:25
+adjudication of this disagreement in order to make progress but inevitably the yields that are gained from this are
+29:30
+going to be are going to kind of be positive some because in many cases technology we can trust will ultimately
+29:36
+have the biggest societal impact rather than ones that are kind of built in in in quiet in in in close quarters
+29:43
+and lastly i wanted to kind of mention this point of a multi-polar world and i think some people have mentioned this is
+29:49
+that um there there was a great study in nature that was done about the kind of like geographic distribution of ai
+29:56
+ethics principles and they were largely disproportionately um kind of created in western europe and in north america and
+30:04
+in china and that also suggests that there's an idea that there are some communities some geographies that are that are in
+30:10
+the role of being able to define what the technologies of the future look like what value systems we ascribe i think we
+30:16
+have to recognize and acknowledge that for technologies that are going to have that do have a global impact that we
+30:22
+need to have more than one value system at play in ascribing what values are important in these technologies and so i
+30:29
+think the error that we will be moving into next is going to be a one where all communities want to have a say in what
+30:35
+values we we want technologies to to adhere to and ultimately how they're delivered and manifested and so i think
+30:42
+this shift is really important and really profound and it's one that i've thought a lot about in the work that we've done on de-colonial ai and and
+30:49
+trying to envision what this kind of world where that is not led exclusively by the same powers and governments and
+30:55
+institutions that have led in the past thank you so much for that those are fantastic points i i think it's a very
+31:03
+good sort of summary of and get clustering of the different points you've seen come up by across this panel so far i want to start us off by um
+31:09
+picking up a point that kind of it was full of a golden thread that kind of ran through each of these these um brief brief introductions around um how do you
+31:18
+how do we incentivize the kind of ethical thinking and and uh
+31:23
+practical work that each of you have described i think we've seen in many domains that there's a risk of different
+31:30
+individuals within an institution having very different ideas of what ethics means or its limits and its scope
+31:37
+um we've seen cases in which uh in the case of damage of of somebody who's asking particular questions ultimately
+31:43
+i'm being resignated for it and i i suppose that if we are going to have this much more holistic and deep um
+31:50
+form of ethics and practice i am curious how do we set those incentives in place
+31:55
+to reward that kind of work and incentivize and encourage that kind of work not just with large firms but even smaller firms that are just in those
+32:01
+early stages of the development process i'm going to turn first to libby to ask this question and then i'll go across
+32:08
+the panel to others for their thoughts it's a great question um so so the first
+32:14
+thing i'd say is in my work at digital catapult particularly working with startups one
+32:21
+of the things that we offered was support from an external
+32:27
+ethics committee to help them think about
+32:33
+the ethical elements of their business and um no incentive was needed maybe
+32:38
+there's a selection bias but actually that offering became um
+32:45
+a big motivation for startups to apply to the program having said that
+32:50
+um i did see some recent research from consequential and i think it was the odi
+32:56
+in which they described organizations in which ethics is a bit like the office
+33:02
+dishwasher and so although it's everybody's responsibility it's actually the person that cares the
+33:08
+most that ends up doing the work of emptying the dishwasher and that's that's unsustainable and it's
+33:14
+not scalable so i think that comes back to um culture
+33:21
+developing and deploying responsibly has to be not just an ai ethics question or not
+33:27
+just something that the people that develop and deploy machine learning and data do but it has to come top down
+33:35
+and one of the things that i really like about my new role at academic technology is that it combines responsibility
+33:42
+for ai ethics for into a better term but also best practices and machine learning
+33:49
+operations so i think that that confluence where one can embed best practices across the
+33:56
+machine in the learning life cycle make sure that those best practices are part of the definition of done
+34:02
+as are kite marks relating to say security that ensures that people are rewarded
+34:09
+for for good practices it becomes part of their everyday work
+34:15
+their promotion their pay review kudos
+34:20
+yeah really good points that we have an initiation of of uh kite marks and kind of other forms of incentives around uh
+34:26
+perform i think is really key mona did you want to come into this point around incentives and and send structures
+34:32
+yeah i think i can speak to that from kind of two perspectives juan as an educator um and an academic and kind of
+34:40
+uh trying to do that work in the academy and and in in an engineering school
+34:46
+which i think can uh stand for doing you know that kind of work in
+34:51
+[Music] a corporation for example uh and it kind of links back to the
+34:56
+point of translation that shannon and libby made that translation work is really hard it's interdisciplinary and
+35:02
+although everybody always says interdisciplinarity is extremely important and these multis that uh
+35:08
+william uh isaac just spoke about what are so important but that's not necessarily um
+35:15
+rewarded within the academy um when you do interdisciplinary work and you go between you jump between conferences you
+35:20
+jump between topics and you do that kind of translation work that's not what the academy is necessarily interested in and
+35:27
+likewise in a corporate organization that's not necessarily what a corporate organization is interested in it's a
+35:33
+very kind of siloed way of building careers so i think we need to find very on structures to address that and i can
+35:40
+tell you from teaching wonderful young engineers they are so ready for that the next generation of engineers really
+35:46
+wants to do that work they're kind of waiting for us to uh get organized and make it happen i'm gonna run a big fare
+35:53
+on public interest technology careers in the fall and there's such big interest from students who are just so willing to
+35:59
+embark on that um and then i think the other perspective is just startups and german startups
+36:05
+particularly that i am currently researching and what i see there is um that it's very much seen as a kind of
+36:14
+and we spoke about this a culture problem a leadership problem ethics is something that you carry with yourself
+36:20
+that is enacted in a daily practice and so therefore um you know looking at what that means on
+36:27
+an organizational level is just as important as thinking about what that means on a macro level in terms of regulation uh and in terms of compliance
+36:35
+and so on and the last point that i kind of want to make is i think it's very
+36:40
+important to agree to to share and agree upon best practices but it might be even more
+36:47
+important to share failures when we're not really willing to um carry those
+36:52
+with us and make those just as apparent and say look this is what we tried to do and this is where it went wrong this is
+36:58
+where where we ran into obstacles and learning from that we are always very you know very much in favor of putting
+37:04
+successful projects on the pedestal but those are not necessarily ones we learned from so i would actually advocate for a culture of sharing
+37:11
+failures so i'm gonna stop here nah it's really good points it ties very neatly with libby's comments
+37:16
+about the importance of encouraging people to fail and to share their failures that's that's i think a crucial
+37:22
+crucial concept we've pulled out and i really like the the points you've raised about the out these sort of incentive structures in academia um we're actually
+37:29
+called just yesterday um talking about that exact exact topic and how interesting area isn't rewarded incentivized in the publications space
+37:36
+around what journals will accept um which raises really difficult challenges for how you how you reward and encourage
+37:41
+that more anticipatory role um the startup space i think is a really interesting one as well as the big tech spaces i'm wondering if there's sort of
+37:47
+different incentive structures that we might consider tweaking or adjusting and shannon i know that you've you've done some work um sort of across these
+37:53
+areas i would be curious to read your thoughts on this incentive's question
+37:59
+yeah thanks um yeah i've thought about this problem a lot and there's no there's no silver bullet there's no
+38:06
+simple solution for it um but i think a couple of things can be said first of all
+38:11
+it's really important to look at um the incentives that you have um at
+38:16
+every level of the organization um and given that you're not going to throw out uh your existing incentive
+38:23
+structure uh very likely right you need to work the ethical performance into it
+38:29
+and so for example if you have a performance review cycle um what are the questions
+38:36
+on the performance review that are going to trigger identification of contributions in this area right if
+38:42
+you're required to report uh what you've achieved over you know the quarter or the year and there has to be a way where
+38:50
+and i want to pick up on something uh mona said you're able to report um uh
+38:55
+the both the successes uh that you've had in uh ethical uh uh product design
+39:02
+or development uh but also the the things that you've learned uh and uh and
+39:07
+the ways that you've managed various conflicts or or problems uh that have emerged and so there have to be really
+39:13
+specific questions in that kind of performance review process that are targeting exactly what it is that you
+39:18
+want to reward um this is really simple stuff but it just often doesn't happen right you tell
+39:25
+people you want them to be ethical and you leave their incentives exactly the same um the other thing is that um
+39:31
+it also has to be looked at from a a top-down uh
+39:38
+direction so in my experience the thing that holds people back most often is the fear of
+39:44
+what their immediate line manager is going to say if they flag a problem if they say we have an ethical issue here
+39:50
+we have to look at or if they say you know what we're proposing to do about this ethical issue i don't think it's
+39:56
+going to work i don't think it's adequate i don't think this response will really meet the need and so we need
+40:02
+to be able to figure out how can we evaluate also managers and
+40:08
+executives so that their performance and the things they care about like their bonuses are tied to the performance of
+40:16
+their teams in this area uh and so uh that's a pretty straightforward thing to do but as we
+40:22
+saw with the uh a case of pressure having to be put on google to
+40:28
+tie performance in diversity and inclusion to uh
+40:33
+leadership bonuses and things like that if you don't join those two things together you're not going to get any
+40:40
+substantial change and all you're going to get is burnout from people who throw themselves uh uh at uh at uh the
+40:49
+effort of doing the right thing then get punished for it or see other people promoted ahead of them for
+40:54
+ignoring this uh and then they just become cynical burned out they may leave the profession they may leave the
+41:00
+company uh or they may just become embittered and now you have some a scenario that's worse than what you
+41:05
+started uh so the important thing is to figure out how you avoid that worst case scenario
+41:12
+it's a really really good point william i'd like to know about this one because i've seen somebody's doing this work inside of a research firm be curious for
+41:18
+your perspective on that incentive question both from the sort of top level down but also um you know as someone who's doing it how
